@@ -21,3 +21,6 @@ var addDigits = function(num) {
         return 9;
     }
 };
+
+//added by sourabh
+//console.log(1 + ((num - 1) % 9));
